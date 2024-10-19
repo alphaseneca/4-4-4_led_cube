@@ -5,8 +5,8 @@ This repository documents my journey of building a **4x4x4 LED Cube**, including
 ![LED Cube](./images/final-cube.jpg)
 
 <p float="left">
-<img src="./images/cube-image%20(46).jpg" width="425"/> 
-<img src="./images/cube-image%20(50).jpg" width="425"/>
+<img src="./images/cube-image%20(46).jpg" width="400"/> 
+<img src="./images/cube-image%20(50).jpg" width="400"/>
 </p>
 
 <!-- # 4-4-4_led_cube
@@ -58,8 +58,6 @@ The 4x4x4 LED Cube consists of 64 LEDs arranged in a 3D matrix, controlled using
 2. Select the **`main.cpp`** file in the location **`4-4-4_led_cube_code/src/`** and build it.
 3. Connect the microcontroller to the computer using a USB cable.
 4. Upload the code and enjoy the light patterns!
-
----
 
 ---
 
