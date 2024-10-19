@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "wirebase")(type "KiCad")(uri "${KIPRJMOD}/wirebase.pretty")(options "")(descr ""))
+)
