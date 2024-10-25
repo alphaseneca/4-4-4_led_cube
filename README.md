@@ -48,7 +48,7 @@ The 4x4x4 LED Cube consists of 64 LEDs arranged in a 3D matrix, controlled using
   - **`v1.0/`**: First version of the PCB, including Gerber files and 3D renderings.
   - **`v2.0/`**: Placeholder for future PCB improvements.
   - **`changelog.md`**: Summarizes changes across PCB iterations.
-- **`Debugging/`**: Notes on issues encountered and how I solved them.
+- **`debugging/`**: Notes on issues encountered and how I solved them.
 
 ---
 
